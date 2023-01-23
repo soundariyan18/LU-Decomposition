@@ -34,7 +34,6 @@ print(U)
 (ii) To find the LU Decomposition of a matrix
 ```
 /*
-Program to find the LU Decomposition of a matrix.
 Developed by: Soundariyan M N
 RegisterNumber:22008347 
 */
@@ -50,7 +49,9 @@ print (X)
 ```
 
 ## Output:
+ To find the L and U matrix
 ![model](OUTPUT.png)
+To find the LU Decomposition of a matrix
 ![model](outputt.png)
 
 
