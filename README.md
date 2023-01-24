@@ -9,8 +9,11 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 1.import numpy and lu, lu_factor,lu_solve (from scipy.linalg)
+
 2. Assign the values to the arrays created
+
 3. Find the L and U matrix using P,L,U=lu(variable), lu_factor(variable), lu_solve(variable)
+
 4. Print the output
 
 ## Program:
